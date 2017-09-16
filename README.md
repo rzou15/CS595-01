@@ -1,3 +1,4 @@
 # CS595-01
-17‘Fall
+2017 Fall
+
 Interactive and Transparent Machine Learning
